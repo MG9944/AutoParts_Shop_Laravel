@@ -1,4 +1,4 @@
- # Traditional server rendered e-commerce store built on Spring Framework for learning purposes.
+ # Traditional server rendered e-commerce store built on Laravel Framework for learning purposes.
 
 *1* TECHNOLOGIES:
 
@@ -29,11 +29,11 @@
 
 
 ** Home Page
-![image](https://ibb.co/T4T9C48)
+![alt text](https://ibb.co/T4T9C48)
 
 ** Shop
-![image](https://ibb.co/t8MWJ1B)
+![alt text](https://ibb.co/t8MWJ1B)
 
 **Contact
-![image](https://ibb.co/pL9T0p6) 
+![alt text](https://ibb.co/pL9T0p6) 
 
