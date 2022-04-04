@@ -28,12 +28,13 @@
 
 
 
-** Home Page
+**Home Page
 ![h](https://user-images.githubusercontent.com/94039553/161493171-6b4704c7-4ccb-4b2b-9864-57d058c04b80.jpg)
 
 
-** Shop
+**Shop
+![sh](https://user-images.githubusercontent.com/94039553/161493685-b6009ccb-c0e8-43f2-9cbd-3a2a17c32404.jpg)
 
 **Contact
-
+![con](https://user-images.githubusercontent.com/94039553/161493750-55621316-2245-4465-9f80-406fbd567717.jpg)
 
