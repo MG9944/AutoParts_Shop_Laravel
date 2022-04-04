@@ -1,6 +1,6 @@
  # Traditional server rendered e-commerce store built on Laravel Framework for learning purposes.
 
-*1* TECHNOLOGIES:
+*1 TECHNOLOGIES:
 
 ** PHP 7
 
@@ -12,7 +12,7 @@
 
 ** jQuery
 
-*2* FUNCTIONALITY/FEATURES:
+*2 FUNCTIONALITY/FEATURES:
 
 ** User register/login 
 
@@ -29,11 +29,10 @@
 
 
 ** Home Page
-![alt text](https://ibb.co/T4T9C48)
+
 
 ** Shop
-![alt text](https://ibb.co/t8MWJ1B)
 
 **Contact
-![alt text](https://ibb.co/pL9T0p6) 
+
 
